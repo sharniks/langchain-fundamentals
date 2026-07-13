@@ -114,18 +114,6 @@ ANTHROPIC_API_KEY=your_api_key
 
 ---
 
-## 📸 Sample Applications
-
-This repository contains small applications built while learning, including:
-
-* Research Paper Summarizer
-* Dynamic Prompt Generator
-* Prompt Engineering Examples
-* Structured Output Parsing
-* Hugging Face Chat Applications
-
----
-
 ## 🎯 Purpose
 
 This repository serves as my personal learning journal and reference while transitioning from Java Backend Development to AI Engineering.
@@ -137,4 +125,3 @@ This repository serves as my personal learning journal and reference while trans
 * CampusX LangChain Tutorial
 * LangChain Documentation
 * Hugging Face
-* OpenAI
