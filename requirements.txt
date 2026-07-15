@@ -31,3 +31,4 @@ accelerate
 bitsandbytes
 pydantic
 langchain-classic
+grandalf
