@@ -32,3 +32,6 @@ bitsandbytes
 pydantic
 langchain-classic
 grandalf
+langchain-community
+pypdf
+bs4
