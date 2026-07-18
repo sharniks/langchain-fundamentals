@@ -35,3 +35,5 @@ grandalf
 langchain-community
 pypdf
 bs4
+langchain_experimental
+sentence-transformers
