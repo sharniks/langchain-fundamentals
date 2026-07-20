@@ -24,6 +24,14 @@ Topics covered include:
 * Hugging Face Integration
 * Google Gemini Integration
 * Streamlit Applications
+* Text Splitters (RecursiveCharacterTextSplitter)
+* Embeddings (HuggingFace, BGE, MPNet, MiniLM)
+* Vector Stores (ChromaDB, FAISS)
+* Similarity Search & Similarity Search with Score
+* Retrieval-Augmented Generation (RAG) fundamentals
+* YouTube Transcript Extraction for RAG pipelines
+* Tool / Function Calling with LLMs
+* LangChain Agents (ReAct)
 
 ---
 
@@ -38,6 +46,9 @@ Topics covered include:
 * Streamlit
 * Pydantic
 * Google Gemini API
+* ChromaDB
+* FAISS
+* youtube-transcript-api
 
 ---
 
@@ -45,9 +56,20 @@ Topics covered include:
 
 ```text
 .
-├── Langchain_Models/
-├── Langchain_Prompts/
-├── Langchain_Output_Parsers/
+├── LANGCHAIN-AGENTS/
+├── LANGCHAIN-CHAINS/
+├── LANGCHAIN-DOCUMENT-LOADERS/
+├── LANGCHAIN-MODELS/
+├── LANGCHAIN-OP-PARSERS/
+├── LANGCHAIN-PROMPTS/
+├── LANGCHAIN-RAG/
+├── LANGCHAIN-RETRIEVERS/
+├── LANGCHAIN-RUNNABLES/
+├── LANGCHAIN-STRUCTURED-OP/
+├── LANGCHAIN-TEXT-SPLITTERS/
+├── LANGCHAIN-TOOL-CALLING/
+├── LANGCHAIN-TOOLS/
+├── LANGCHAIN-VECTOR-STORES/
 ├── requirements.txt
 └── README.md
 ```
@@ -103,14 +125,12 @@ ANTHROPIC_API_KEY=your_api_key
 * ✅ Output Parsers
 * ✅ Structured Output Parser
 * ✅ Pydantic Output Parser
-* ⏳ LCEL
-* ⏳ Runnables
-* ⏳ Chains
-* ⏳ Memory
-* ⏳ RAG
-* ⏳ Vector Databases
-* ⏳ LangGraph
-* ⏳ AI Agents
+* ✅ LCEL
+* ✅ Runnables
+* ✅ Chains
+* ✅ RAG
+* ✅ Vector Databases (ChromaDB, FAISS)
+* ✅ AI Agents
 
 ---
 
